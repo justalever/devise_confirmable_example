@@ -1,24 +1,6 @@
-# README
+# Let's Build: With Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Extending Devise Series
 
-Things you may want to cover:
+This is a quick way to add the `:confirmable` option that ships with the Devise gem. An e-mail is sent to new users that sign-up requesting they confirm their account. Until they click the link in the e-mail to activate their account are they granted access.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
